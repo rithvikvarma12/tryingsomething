@@ -1227,7 +1227,7 @@
         },
         {
           "abbreviation" : "ASU",
-          "prestige" : "72",
+          "prestige" : "73",
           "hexColor" : "#8C1D40",
           "rival" : "UTAH",
           "headCoach" : {
