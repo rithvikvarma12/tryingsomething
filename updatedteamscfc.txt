@@ -1035,8 +1035,8 @@
         },
         {
           "abbreviation" : "WSU",
-          "prestige" : "70",
-          "hexColor" : "#981E32",
+          "prestige" : "72",
+          "hexColor" : "#A60F2D",
           "rival" : "WASH",
           "headCoach" : {
             "contractLength" : "5",
@@ -1179,7 +1179,7 @@
         },
         {
           "abbreviation" : "ORST",
-          "prestige" : "73",
+          "prestige" : "72",
           "hexColor" : "#D73F09",
           "rival" : "ORE",
           "headCoach" : {
